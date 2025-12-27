@@ -1,3 +1,3 @@
-<head>
-  <meta http-equiv="refresh" content="0;url=读书声监测.HTML">
-</head>
+# app
+[文字转URL](/Word to URL)<br>
+[图片转URL](/Pc to URL)
